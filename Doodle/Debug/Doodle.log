@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\program_vc\doodle\doodle\source.cpp(13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Doodle.vcxproj -> D:\Program_VC\Doodle\Debug\Doodle.exe
